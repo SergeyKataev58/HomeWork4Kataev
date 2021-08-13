@@ -23,7 +23,7 @@ namespace HomeWork4Kataev
     class MyArray
     {
         int[] a;
-        public MyArray(string filename)
+        public MyArray(string Mass)
         {
             StreamReader sr = new StreamReader("C:\\Users\\Сергей\\Desktop\\Mass.txt");
             //  Считываем количество элементов массива
